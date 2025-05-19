@@ -15,7 +15,7 @@ I enjoy learning, collaborating, and building. I’m constantly looking for new 
 *   ✉️  You can contact me at [adolfo.coronado05@gmail.com](mailto:adolfo.coronado05@gmail.com.)
 *   🧠  I'm writing a scientific article.
 *   🤝  I'm open to collaborating on new projects, work opportunities and crazy ideas.
-*   ⚡  Besides programming, I love playing trading, going to the gym, and hanging out with friends.
+*   ⚡  Besides programming, I love trading, going to the gym, and hanging out with friends.
 
 ## Skills 
 <p align="left">
